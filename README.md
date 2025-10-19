@@ -37,11 +37,4 @@ This project demonstrates a complete SQL pipeline for cleaning, transforming, an
 - Returns analysis (rate, region, profit lost, most returned products)
 - People management insights
 
-## Requirements
 
-- MySQL Server 8.0+
-- CSV files placed in the MySQL secure upload directory (see `secure_file_priv` variable)
-
-## Getting Started
-
-Follow the steps in [`Analysis_using_SQL.md`](Analysis_using_SQL.md) for a guided walkthrough.
